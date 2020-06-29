@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91464f0b-5410-4542-af3b-994362cfbbc1" name="Master" comment="Carga dos" />
+    <list default="true" id="91464f0b-5410-4542-af3b-994362cfbbc1" name="Master" comment="Carga dos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="fc31bde9-3308-423c-a33c-e9dd8b409666" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,8 @@
       <workItem from="1593285700122" duration="329000" />
       <workItem from="1593367958819" duration="256000" />
       <workItem from="1593371072901" duration="1980000" />
-      <workItem from="1593376641048" duration="1395000" />
+      <workItem from="1593376641048" duration="2594000" />
+      <workItem from="1593394204214" duration="470000" />
     </task>
     <task id="LOCAL-00001" summary="Primera Carga">
       <created>1593376725224</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593377630896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Carga dos">
+      <created>1593378077532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593378077532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,10 +111,14 @@
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1593377629880">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1593394462333">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593377629880" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593394462333" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1593378074423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593378074423" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1593376654242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -133,18 +147,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593286031855" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1593377769026">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1593388946665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593377769026" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593388946665" />
     <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1593372360426">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1593372360426" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593378021815">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593394581927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593378021815" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593394581927" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593378162935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1593378162935" />
+    <state x="512" y="225" key="git4idea.rebase.GitRebaseDialog" timestamp="1593378201137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="512" y="225" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1593378201137" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/app$app.coverage" NAME="app Coverage Results" MODIFIED="1593285701262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
